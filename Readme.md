@@ -26,11 +26,8 @@ Anime Explorer is a modern Android application built using **Jetpack Compose**, 
 ---
 ## 📸 Screenshots
 
-| Home Screen | Search | Details |
-|-------------|--------|---------|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Details](screenshots/details.png) |
 
-**Add these images to `/screenshots/` folder**
+| ![Home](screenshots/day.jpeg) | ![Search](screenshots/night.jpeg)
 
 ---
 
